@@ -14,14 +14,17 @@
 - For skewing diversity and inclusion to just your race and ethinicity
 - For destroying culture of Compass.
 - For claiming deals after they are closed
+- For being careless when its comes to agent registration and thus charging 35% to Escrow officer.
 - For insider trading
 - For misreporting revenue and firing the litigator for it.
+- For abusing the postgres maintainance time of financial systems.
 - For "accidentaly" releasing Private Exclusives into open market and charging agents 35% for it to find another reason to fire the litigator for it.
 - For misaligning release between orgs.
 - For kafka security hacking of your own system.
-- For surrounding yourself with incompetent bitches who wears inappropriate clothes to work to make everyone around uncomformtable. Yeah, I am talking about another nepotist. Hadar Yaco.
+- For surrounding yourself with incompetent bitches who wears inappropriate clothes to work to make everyone around uncomfortable. Yeah, I am talking about another nepotist. Hadar Yaco.
 - For favoring some cheap, incompetent, political, egoistic, pretentious, low moralle contractor engineer who rolls his eyes when a senior engineer is guiding him.
+- For spending majority of time procastinating and spying on Blind 
 - For openly being the biggest prick in the technological industry.
-- For wasting resources on non-feature and technical debt 
-- For asking Jim B to fire Me. Because you are a coward and a false veteran who couldn't do it himself and doesn't want to get yours or yours race hands dirty.
-- For being boring, hasty and nasty with everything mentioned above.
+- For wasting resources on non-feature and technical OE debts 
+- For asking Jim B to fire Me. Because you are a coward and a false veteran who couldn't do it himself and doesn't want to get yours or yours race hands dirty of the sins of wrong doings!
+- For being boring, predictable, hasty and nasty with everything mentioned above.
