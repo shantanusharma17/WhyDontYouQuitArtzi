@@ -1,30 +1,33 @@
-# Just Resign Shay Artzi
+# Just Resign Artzi
 
-
-- For Being an unethical, hypocritical, non-inspiring veteran
+- For being an unethical, hypocritical, non-supporting and uninspiring veteran
 - For not giving any opportunity to the one who has been giving the most opportunities to real-estate agents with his work.
-- For setting useless IRSA tasks as standard for control and chaos.
-- Having self-proclaimed degenerates PM of your race in the company and promoting them first. The most incompetent PM of all time.
+- For setting useless IRSA tasks as standard of control and illusive trap.
+- For tearing me apart with traps like where one leadership encouraging me to do IRSA and the other leadership saying "We will let you go after you do IRSA".
+- For having self-proclaimed degenerates as Product Manager and cover up their incompetency with promotion just because they belong to your ethinicity.
 - For favoring your race and ethinicity first.
-- For racially targetting anyone who doesn't belong to your race and ethinicity.
-- For using Cloudflare to change ingress/LB endpoint and manipulate traffic in regions of YOUR choice to cause chaos in  real-estate regions. Thus takin control of leads and seo traffic and choice away from the real-estate agents.
-- For Crafting racially inappropriate social engineering attack during inappropriate times(GlobalGeoConflict).
-- For unethical identity and security hacking using crowdstrike, SS7, reusuable saved passwords on work laptop and misusing other technologies such as "security and privacy" lockdown setting on mac os, session tokens, etc.
+- For racially targetting anyone you hate or who doesn't belong to your race or ethinicity.
+- For using Cloudflare to change ingress/LB endpoint and manipulate traffic in zones of YOUR choice to cause chaos in real-estate neighborhoods such as New Jersey and tri-state region. Thus takin control of leads , seo traffic and all choices away from the real-estate agents.
+- For crafting racially inappropriate social engineering attack during inappropriate times(IndiaPak GeoConflict of April 2025).
+- For unethically hacking identity, privacy and security of all my electronic devices leveraging ET tools like crowdstrike, SS7 hacking into my phone and wifi, stealing reusuable saved passwords on work laptop and abusing any technology possible such as "security and privacy" lockdown setting on mac os, session/jwt tokens, slack administrator access abuse, sending spies around my home, etc while keeping me super busy to take any precautions. I HOPE ANYONE INVOLVED IN THIS DIE FOR THAT MFers!
 - For bringing Nepotism into Compass
 - For skewing diversity and inclusion to just your race and ethinicity
-- For destroying culture of Compass.
-- For claiming deals after they are closed
-- For being careless when its comes to agent registration and thus charging 35% to Escrow officer.
+- For destroying culture of Compass. Its a racially bias cult now.
+- For claiming deals after they are closed.
+- For being careless when its comes to agent registration and thus charging 35% to Escrow officer and then create sev-1 after earning to reduce stock price as per you liking. Bull trap!
 - For insider trading
 - For misreporting revenue and firing the litigator for it.
+- For misreporting commission breakdown to CRMLS.
 - For abusing the postgres maintainance time of financial systems.
-- For "accidentaly" releasing Private Exclusives into open market and charging agents 35% for it to find another reason to fire the litigator for it.
-- For misaligning release between orgs.
-- For kafka security hacking of your own system.
-- For surrounding yourself with incompetent bitches who wears inappropriate clothes to work to make everyone around uncomfortable. Yeah, I am talking about another nepotist. Hadar Yaco.
-- For favoring some cheap, incompetent, political, egoistic, pretentious, low moralle contractor engineer who rolls his eyes when a senior engineer is guiding him.
-- For spending majority of time procastinating and spying on Blind 
-- For openly being the biggest prick in the technological industry.
-- For wasting resources on non-feature and technical OE debts 
-- For asking Jim B to fire Me. Because you are a coward and a false veteran who couldn't do it himself and doesn't want to get yours or yours race hands dirty of the sins of wrong doings!
+- For leveraging search and listing Org to "accidentally" release Private Exclusives into open market and charging agents 35% for it to find another reason to fire the auditor for it. And misreport about it in CRMLS regions.
+- For misaligning release between orgs. TJ, S&L and Leads.
+- For unnecessary kafka security hacking of your own system.
+- For surrounding yourself with incompetent bitches who wear inappropriate clothes(when not pregnant) to make everyone around uncomfortable to even talk to her. Yeah, I am talking about another nepotist. H Yaco.
+- For favoring some cheap, incompetent, political, egoistic, pretentious, low morale contractor engineer and team around it who would rolls their eyes when a senior FT engineer is guiding them.
+- For spending majority of time procastinating and guessing who-is who on Blind. 
+- For creating choice as illusion and control as suffocation.
+- For wasting resources on non-feature work such as: technical debts, redunduant work, and using identity team for hacking and targetting one single individual. 
+- For asking Jim B to fire people. Because you are a coward and a false veteran who couldn't do it himself and doesn't want to get your or any of your cult's hands dirty with the sins of wrongdoings!
+- For hastily suing Zillow without any concrete plan for properly checkmating them to win the game.
+- For creating a Q1 2025 bull-trap by delaying ReBAC release to set a system which would double-end charge the agents. Thus, creating manual operation overhead to operations for auditing and setting the auditor for failure to find another reason to wrongfully terminate them.
 - For being boring, predictable, hasty and nasty with everything mentioned above.
