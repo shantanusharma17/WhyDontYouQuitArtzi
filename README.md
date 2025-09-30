@@ -22,11 +22,11 @@
 - For leveraging search and listing Org to "accidentally" release Private Exclusives into open market and charging agents 35% for it to find another reason to fire the auditor for it. And misreport about it in CRMLS regions.
 - For misaligning release between orgs. TJ, S&L and Leads.
 - For unnecessary kafka security hacking of your own system.
-- For surrounding yourself with incompetent bitches who wear inappropriate clothes(when not pregnant) to make everyone around uncomfortable to even talk to her. Yeah, I am talking about another nepotist. H Yaco.
+- For surrounding yourself with incompetent bitches who wear inappropriate clothes to work to make everyone around too uncomfortable to even talk to her. Yeah, I am talking about another nepotist: H Yaco.
 - For favoring some cheap, incompetent, political, egoistic, pretentious, low morale contractor engineer and team around it who would rolls their eyes when a senior FT engineer is guiding them.
 - For spending majority of time procastinating and guessing who-is who on Blind. 
 - For creating choice as illusion and control as suffocation.
-- For wasting resources on non-feature work such as: technical debts, redunduant work, and using identity team for hacking and targetting one single individual. 
+- For wasting resources on non-feature work such as: technical debts, same work across company such as drift remediation/IRSA, and using identity team for hacking and targetting one single individual. 
 - For asking Jim B to fire people. Because you are a coward and a false veteran who couldn't do it himself and doesn't want to get your or any of your cult's hands dirty with the sins of wrongdoings!
 - For hastily suing Zillow without any concrete plan for properly checkmating them to win the game.
 - For creating a Q1 2025 bull-trap by delaying ReBAC release to set a system which would double-end charge the agents. Thus, creating manual operation overhead to operations for auditing and setting the auditor for failure to find another reason to wrongfully terminate them.
