@@ -7,7 +7,7 @@
 - For having self-proclaimed degenerates as Product Manager and cover up their incompetency with promotion just because they belong to your ethinicity.
 - For favoring your race and ethinicity first.
 - For racially targetting anyone you hate or who doesn't belong to your race or ethinicity.
-- For using Cloudflare to change ingress/LB endpoint and manipulate traffic in zones of YOUR choice to cause chaos in real-estate neighborhoods such as New Jersey and tri-state region. Thus takin control of leads , seo traffic and all choices away from the real-estate agents.
+- For using Cloudflare to change CNAME to point to different ingress/LB endpoint and manipulate traffic in zones of YOUR choice to cause chaos in real-estate neighborhoods such as New Jersey and tri-state region. Thus takin control of leads , seo traffic and all choices away from the real-estate agents.
 - For crafting racially inappropriate social engineering attack during inappropriate times(IndiaPak GeoConflict of April 2025).
 - For unethically hacking identity, privacy and security of all my electronic devices leveraging ET tools like crowdstrike, SS7 hacking into my phone and wifi, stealing reusuable saved passwords on work laptop and abusing any technology possible such as "security and privacy" lockdown setting on mac os, session/jwt tokens, slack administrator access abuse, sending spies around my home, etc while keeping me super busy to take any precautions. I HOPE ANYONE INVOLVED IN THIS DIE FOR THAT MFers!
 - For bringing Nepotism into Compass
